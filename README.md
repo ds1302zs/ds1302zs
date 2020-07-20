@@ -34,6 +34,10 @@ Here are some ideas to get you started:
   
   **非酷町堂学员也可看到。**
   
+  关于Codingwater：没错，是Codingtang's water tie，谁叫你们在问答里发那么多水贴？
+  
+  起名叫Codingwater是属于言论，是受保障的言论自由。不要借此说事。
+  
   “他为了宣传与编程无关的比赛，已经违反了酷町问答版规了” “法无明文规定则无罪”，
   
   版规作为强制性规则也是一样的，宣传与编程无关的比赛没有惩罚措施，不违反规定
